@@ -1,14 +1,14 @@
 # SALARY_PREDICTOR
 It predicts the salary based on the years of experience
 
-## Concepts USED:
+### Concepts USED:
 * Simple Linear Regression
 
-## Libraries USED:
+### Libraries USED:
 * Pandas
 * Matplotlib
 
-## Files:
+### Files:
 * SAMPLE_PREDICTOR.py - The code
-* SAMPLE_DATA.csv - The data set used for training
+* Sample_Data.csv - The data set used for training
 * SAMPLE_PREDICTED_GRAPH.png - The picture of graph
